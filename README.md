@@ -36,7 +36,7 @@ This Framework is designed for Backend Testing of Webservices using BDD Cucumber
 
 >src/test/resources: This directory contains feature files and test cases for endpoints i.e. http://api.zippopotam.us/{country}/{postal-code} and http://api.zippopotam.us/{country}/{state}/{city}
 
-## Run API Playground application as a Pre Requisite
+## Application Under Test
 
 We are using Zippopotam APIs as Application Under Test.
 

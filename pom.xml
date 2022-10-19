@@ -18,7 +18,7 @@
         <slf4j.version>1.7.28</slf4j.version>
         <junit.version>4.12</junit.version>
         <joda.time.version>2.10.5</joda.time.version>
-        <jackson.version>2.11.1</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
         <lombok.version>1.18.10</lombok.version>
     </properties>
 
